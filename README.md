@@ -17,7 +17,7 @@ Pretendemos implementar uma maneira de avaliação do usuário para o nutricioni
 
 # Protótipo
 
-![Screenshot](Protótipo.png)
+![Protótipo de tela de alimentos](Protótipo.png)
 
 # Colaboradores 
   Luan Diemer de Melo Nista 0030482211016 
