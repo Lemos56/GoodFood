@@ -15,10 +15,6 @@ O sistema de cadastro se dividirá entre usuário e profissinal da nutrição, q
 # Observações 
 Pretendemos implementar uma maneira de avaliação do usuário para o nutricionista, assim classificando o especialista em uma qualificação de até 5 estrelas, com isso os nutricionistas mais bem avaliados terão mais recomendações pelo próprio aplicativo. Será atualizado periodicamente com os estudos mais recentes da área, tanto com a alimentação, treino e rotinas saudáveis.
 
-# Protótipo
-
-![Protótipo de tela de alimentos](Protótipo.png)
-
 # Colaboradores 
   Luan Diemer de Melo Nista 0030482211016 
   Felipe Kaua Lemos 0030482211025
