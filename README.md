@@ -1,4 +1,4 @@
-# Aplicativo Good Food
+:# Aplicativo Good Food:
 
 O projeto tem como objetivo auxiliar e facilitar o usuário com uma vida leve e saudável, a reeducação alimentar onde toda a expertise do aplicativo irá avaliar sua rotina, sua alimentação, seu sono, sua prática de exercícios físicos e assim obtendo a melhor rotina e dieta para o usuário de acordo com seu cotidiano.
 
