@@ -4,7 +4,9 @@ O projeto tem como objetivo auxiliar e facilitar o usuário com uma vida leve e 
 
 # Colaboradores 
   Luan Diemer de Melo Nista 0030482211016
+  
   Felipe Kaua Lemos 0030482211025
+  
   Lucas Schineider Cabrera 0030482211030
   
 # Como o Aplicativo Funciona?
