@@ -2,7 +2,12 @@
 
 O projeto tem como objetivo auxiliar e facilitar o usuário com uma vida leve e saudável, a reeducação alimentar onde toda a expertise do aplicativo irá avaliar sua rotina, sua alimentação, seu sono, sua prática de exercícios físicos e assim obtendo a melhor rotina e dieta para o usuário de acordo com seu cotidiano.
 
+# Colaboradores 
+  [Luan Diemer de Melo Nista](https://github.com/luandiemer) 0030482211016
   
+  [Felipe Kaua Lemos](https://github.com/Lemos56) 0030482211025
+  
+  [Lucas Schineider Cabrera](https://github.com/Schineider2) 0030482211030
 # Como o Aplicativo Funciona?
 
 O aplicativo atua junto a um profissional da área de nutrição aplicativo para realizar as avaliações necessárias e facilitar uma maneira de contatar um nutricionista selecionado, fazendo uma ponte por meio digital entre o usuário e o profissional, criando diferentes experiencias de uso do software tendo um para o cliente e outro para o nutricionista (como exemplo o Uber, no qual o motorista e o passageiro tem diferentes modos de usar o serviço).
@@ -36,9 +41,4 @@ Acesse nosso modelo de negócio
 
 [Link do Modelo de Negócio](https://fatecspgov-my.sharepoint.com/:w:/g/personal/felipe_lemos2_fatec_sp_gov_br/EYni4C8reypAm7WxNaDU2coBGXmywtZAh_a7InfvNL-K6Q?e=55fmvj)
 
-# Colaboradores 
-  [Luan Diemer de Melo Nista](https://github.com/luandiemer) 0030482211016
-  
-  [Felipe Kaua Lemos](https://github.com/Lemos56) 0030482211025
-  
-  [Lucas Schineider Cabrera](https://github.com/Schineider2) 0030482211030
+
