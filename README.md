@@ -1,4 +1,6 @@
-# :Aplicativo Good Food:
+<h1 align="center"> Aplicativo Good Food 🍉 </h1>
+
+# Resumo
 
 O projeto tem como objetivo auxiliar e facilitar o usuário com uma vida leve e saudável, a reeducação alimentar onde toda a expertise do aplicativo irá avaliar sua rotina, sua alimentação, seu sono, sua prática de exercícios físicos e assim obtendo a melhor rotina e dieta para o usuário de acordo com seu cotidiano.
 
@@ -22,15 +24,16 @@ O sistema de cadastro se dividirá entre usuário e profissinal da nutrição, q
 Pretendemos implementar uma maneira de avaliação do usuário para o nutricionista, assim classificando o especialista em uma qualificação de até 5 estrelas, com isso os nutricionistas mais bem avaliados terão mais recomendações pelo próprio aplicativo. Será atualizado periodicamente com os estudos mais recentes da área, tanto com a alimentação, treino e rotinas saudáveis.
 
 # Tecnologias
-JavaScript 
 
-Java
+- JavaScript 
 
-Python
+- Java
 
-C#
+- Python
 
-Oracle
+- C#
+
+- Oracle
 
 # Caso de uso
 ![image](https://user-images.githubusercontent.com/110908112/233889857-c543e762-3988-4b54-9abc-d923bd6e0726.png)
