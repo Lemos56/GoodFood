@@ -1,13 +1,7 @@
-# Projeto do Aplicativo de Nutrição
+# Aplicativo Good Food
 
 O projeto tem como objetivo auxiliar e facilitar o usuário com uma vida leve e saudável, a reeducação alimentar onde toda a expertise do aplicativo irá avaliar sua rotina, sua alimentação, seu sono, sua prática de exercícios físicos e assim obtendo a melhor rotina e dieta para o usuário de acordo com seu cotidiano.
 
-# Colaboradores 
-  Luan Diemer de Melo Nista 0030482211016
-  
-  Felipe Kaua Lemos 0030482211025
-  
-  Lucas Schineider Cabrera 0030482211030
   
 # Como o Aplicativo Funciona?
 
@@ -41,3 +35,10 @@ Oracle
 Acesse nosso modelo de negócio
 
 [Link do Modelo de Negócio](https://fatecspgov-my.sharepoint.com/:w:/g/personal/felipe_lemos2_fatec_sp_gov_br/EYni4C8reypAm7WxNaDU2coBGXmywtZAh_a7InfvNL-K6Q?e=55fmvj)
+
+# Colaboradores 
+  [Luan Diemer de Melo Nista](https://github.com/luandiemer) 0030482211016
+  
+  [Felipe Kaua Lemos](https://github.com/Lemos56) 0030482211025
+  
+  [Lucas Schineider Cabrera](https://github.com/Schineider2) 0030482211030
