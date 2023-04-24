@@ -10,7 +10,7 @@ O projeto tem como objetivo auxiliar e facilitar o usuário com uma vida leve e 
   [Felipe Kaua Lemos](https://github.com/Lemos56) 0030482211025
   
   [Lucas Schineider Cabrera](https://github.com/Schineider2) 0030482211030
-# Como o Aplicativo Funciona?
+# Funcionalidade do aplicativo
 
 O aplicativo atua junto a um profissional da área de nutrição aplicativo para realizar as avaliações necessárias e facilitar uma maneira de contatar um nutricionista selecionado, fazendo uma ponte por meio digital entre o usuário e o profissional, criando diferentes experiencias de uso do software tendo um para o cliente e outro para o nutricionista (como exemplo o Uber, no qual o motorista e o passageiro tem diferentes modos de usar o serviço).
 
