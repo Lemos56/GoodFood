@@ -2,6 +2,11 @@
 
 O projeto tem como objetivo auxiliar e facilitar o usuário com uma vida leve e saudável, a reeducação alimentar onde toda a expertise do aplicativo irá avaliar sua rotina, sua alimentação, seu sono, sua prática de exercícios físicos e assim obtendo a melhor rotina e dieta para o usuário de acordo com seu cotidiano.
 
+# Colaboradores 
+  Luan Diemer de Melo Nista 0030482211016
+  Felipe Kaua Lemos 0030482211025
+  Lucas Schineider Cabrera 0030482211030
+  
 # Como o Aplicativo Funciona?
 
 O aplicativo atua junto a um profissional da área de nutrição aplicativo para realizar as avaliações necessárias e facilitar uma maneira de contatar um nutricionista selecionado, fazendo uma ponte por meio digital entre o usuário e o profissional, criando diferentes experiencias de uso do software tendo um para o cliente e outro para o nutricionista (como exemplo o Uber, no qual o motorista e o passageiro tem diferentes modos de usar o serviço).
@@ -19,7 +24,7 @@ Pretendemos implementar uma maneira de avaliação do usuário para o nutricioni
 JavaScript 
 Sql Server
 
-# Colaboradores 
-  Luan Diemer de Melo Nista 0030482211016 
-  Felipe Kaua Lemos 0030482211025
-  Lucas Schineider Cabrera 0030482211030
+# Caso de uso
+![image](https://user-images.githubusercontent.com/110908112/233889857-c543e762-3988-4b54-9abc-d923bd6e0726.png)
+
+
