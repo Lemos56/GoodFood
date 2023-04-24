@@ -24,7 +24,14 @@ Pretendemos implementar uma maneira de avaliação do usuário para o nutricioni
 
 # Linguagens 
 JavaScript 
-Sql Server
+
+Java
+
+Python
+
+C#
+
+Oracle
 
 # Caso de uso
 ![image](https://user-images.githubusercontent.com/110908112/233889857-c543e762-3988-4b54-9abc-d923bd6e0726.png)
