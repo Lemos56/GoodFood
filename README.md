@@ -37,4 +37,7 @@ Oracle
 ![image](https://user-images.githubusercontent.com/110908112/233889857-c543e762-3988-4b54-9abc-d923bd6e0726.png)
 
 # Modelo de Negócio
-https://fatecspgov-my.sharepoint.com/:w:/g/personal/felipe_lemos2_fatec_sp_gov_br/EYni4C8reypAm7WxNaDU2coBGXmywtZAh_a7InfvNL-K6Q?e=55fmvj
+
+Acesse nosso modelo de negócio
+
+[Link do Modelo de Negócio](https://fatecspgov-my.sharepoint.com/:w:/g/personal/felipe_lemos2_fatec_sp_gov_br/EYni4C8reypAm7WxNaDU2coBGXmywtZAh_a7InfvNL-K6Q?e=55fmvj)
