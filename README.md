@@ -37,6 +37,16 @@ Pretendemos implementar uma maneira de avaliação do usuário para o nutricioni
 
 - Oracle
 
+# Ferramentas
+
+- Figma
+
+- Visual Studio
+
+- Lucidchart
+
+- Github
+
 # Caso de uso
 
 <div align="center">
