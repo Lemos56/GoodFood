@@ -63,3 +63,9 @@ Acesse nosso modelo de negócio
 Acesse a prototipação pelo Figma
 
 [Nosso Protótipo](https://www.figma.com/file/FdZ1WjyumaRK8zyQ6hJoET/Projeto-Feed?node-id=0%3A1&t=T3gAFYx4Vj08SCIf-1)
+
+# Jornada do Usuário
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/110908112/236973859-7d555c29-c426-40a7-a1dd-f3e288efc166.jpg" width="500px" />
+</div>
