@@ -27,13 +27,7 @@ Pretendemos implementar uma maneira de avaliação do usuário para o nutricioni
 
 # Tecnologias
 
-- JavaScript 
-
-- Java
-
-- Python
-
-- C#
+- Python com framework Django
 
 - Oracle
 
