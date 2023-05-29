@@ -63,3 +63,6 @@ Acesse a prototipação pelo Figma
 <div align="center">
 <img src="https://user-images.githubusercontent.com/110908112/236973859-7d555c29-c426-40a7-a1dd-f3e288efc166.jpg" width="500px" />
 </div>
+
+## Modelo Conceitual
+[Link do Modelo Conceitual](https://lucid.app/lucidchart/a602fc34-fd79-4e62-81f7-05182337668b/edit?viewport_loc=166%2C122%2C1951%2C1073%2CHWEp-vi-RSFO&invitationId=inv_4752e364-d782-4f01-9d7e-1c703b80883c)
