@@ -66,3 +66,7 @@ Acesse a prototipação pelo Figma
 
 ## Modelo Conceitual
 [Link do Modelo Conceitual](https://lucid.app/lucidchart/a602fc34-fd79-4e62-81f7-05182337668b/edit?viewport_loc=166%2C122%2C1951%2C1073%2CHWEp-vi-RSFO&invitationId=inv_4752e364-d782-4f01-9d7e-1c703b80883c)
+
+## Documento de Requisitos
+
+[Link do Documento de Requisitos])https://docs.google.com/document/d/1YxJE1fpvjyOsU01O_c5u3kL8bsUwZr-esW_65BjzVoM/edit?usp=sharing)
