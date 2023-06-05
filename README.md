@@ -69,4 +69,4 @@ Acesse a prototipação pelo Figma
 
 ## Documento de Requisitos
 
-[Link do Documento de Requisitos])https://docs.google.com/document/d/1YxJE1fpvjyOsU01O_c5u3kL8bsUwZr-esW_65BjzVoM/edit?usp=sharing)
+[Link do Documento de Requisitos](https://docs.google.com/document/d/1YxJE1fpvjyOsU01O_c5u3kL8bsUwZr-esW_65BjzVoM/edit?usp=sharing)
