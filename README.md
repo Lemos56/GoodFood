@@ -44,8 +44,7 @@ Pretendemos implementar uma maneira de avaliação do usuário para o nutricioni
 # Caso de uso
 
 <div align="center">
-<img src="![image](https://github.com/luandiemer/GoodFood/assets/110908112/2f0af107-5510-4d9a-ae69-0e3c3e54fd4b)
-" width="500px" />
+<img src="https://user-images.githubusercontent.com/110908112/248527218-deb50a4b-bbbf-4feb-bff1-b10305f13933.png" width="500px" />
 </div>
 
 ## Modelo de Negócio
