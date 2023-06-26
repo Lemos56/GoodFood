@@ -51,7 +51,7 @@ Pretendemos implementar uma maneira de avaliação do usuário para o nutricioni
 
 Acesse nosso modelo de negócio
 
-[Link do Modelo de Negócio](https://fatecspgov-my.sharepoint.com/:w:/g/personal/felipe_lemos2_fatec_sp_gov_br/EYni4C8reypAm7WxNaDU2coBGXmywtZAh_a7InfvNL-K6Q?e=55fmvj)
+[Link do Modelo de Negócio]([https://fatecspgov-my.sharepoint.com/:w:/g/personal/felipe_lemos2_fatec_sp_gov_br/EYni4C8reypAm7WxNaDU2coBGXmywtZAh_a7InfvNL-K6Q?e=55fmvj](https://docs.google.com/document/d/1iAm2GtwFNDZpfDnCdNUDYML1IDQ1og24aDjjKIqgm9c/edit))
 
 ## Protótipo
 Acesse a prototipação pelo Figma
