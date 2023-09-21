@@ -7,11 +7,11 @@ O projeto tem como objetivo auxiliar e facilitar o usuário com uma vida leve e 
 # Colaboradores 
 | Colaborador  | RA |
 | ------------- | ------------- |
-|   [Luan Diemer de Melo Nista](https://github.com/luandiemer) |  0030482211016  |
+|   [Gabriel Caetano de Oliveira Moreira](https://github.com/c4etan0w)  | 0030482211022  |
 |   [Felipe Kaua Lemos](https://github.com/Lemos56)  | 0030482211025  |
+|   [Luan Diemer de Melo Nista](https://github.com/luandiemer) |  0030482211016  |
 |   [Jaqueline Pena dos Santos Silva](https://github.com/jaqueline-pena)  | 0030482211011  |
-|    [Gabriel Caetano de Oliveira Moreira](https://github.com/c4etan0w)  | 0030482211022  |
-|    [Bom dia Isma](https://github.com/ismael-silva)  | 00304822110??? |
+|   [Bom dia Isma](https://github.com/ismael-silva)  | 00304822110??? |
 
 
 
