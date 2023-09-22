@@ -52,6 +52,8 @@ Pretendemos implementar uma maneira de avaliação do usuário para o nutricioni
 
 - Visual Studio Code
 
+- NodeJs
+
 - Lucidchart
 
 - Github
