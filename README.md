@@ -31,19 +31,32 @@ Pretendemos implementar uma maneira de avaliação do usuário para o nutricioni
 
 # Tecnologias
 
-- Python com framework Django
+- FrontEnd:
+-   .html
+-   .css
 
-- Oracle
+- BackEnd
+-   .js
+  
+- Biblioteca Java Script
+-   React Native
+
+- Banco de Dados
+-   Oracle
 
 # Ferramentas
 
 - Figma
 
-- Visual Studio
+- Android Studio
+
+- Visual Studio Code
 
 - Lucidchart
 
 - Github
+
+- Git
 
 # Caso de uso
 
