@@ -31,17 +31,17 @@ Pretendemos implementar uma maneira de avaliação do usuário para o nutricioni
 
 # Tecnologias
 
-- FrontEnd:
+# FrontEnd:
 -   .html
 -   .css
 
-- BackEnd
+# BackEnd
 -   .js
   
-- Biblioteca Java Script
+# Biblioteca Java Script
 -   React Native
 
-- Banco de Dados
+# Banco de Dados
 -   Oracle
 
 # Ferramentas
