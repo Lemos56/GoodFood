@@ -89,3 +89,7 @@ Acesse a prototipação pelo Figma
 ## Documento de Requisitos
 
 [Link do Documento de Requisitos](https://docs.google.com/document/d/1T-lvUbERKdjSwX2S3uWctfHe6ApS56Axw0T7RWyg97E/edit)
+
+## Relatório de Requisitos
+
+[Link do Relatório de Requisitos](https://fatecspgov-my.sharepoint.com/:w:/g/personal/jaqueline_silva103_fatec_sp_gov_br/EW6agN417r9NtqwSsk-GUdMBHB9-BJFsJlXFnLPRllinMw)
