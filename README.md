@@ -7,8 +7,12 @@ O projeto tem como objetivo auxiliar e facilitar o usuário com uma vida leve e 
 # Colaboradores 
 | Colaborador  | RA |
 | ------------- | ------------- |
-|   [Luan Diemer de Melo Nista](https://github.com/luandiemer) |  0030482211016  |
 |   [Felipe Kaua Lemos](https://github.com/Lemos56)  | 0030482211025  |
+|   [Gabriel Caetano de Oliveira Moreira](https://github.com/c4etan0w)  | 0030482211022  |
+|   [Ismael Barbosa da Silva](https://github.com/ismael-silva)  | 0030482211030 |
+|   [Jaqueline Pena dos Santos Silva](https://github.com/jaqueline-pena)  | 0030482211011  |
+|   [Luan Diemer de Melo Nista](https://github.com/luandiemer) |  0030482211016  |
+
 
 
 
@@ -27,19 +31,34 @@ Pretendemos implementar uma maneira de avaliação do usuário para o nutricioni
 
 # Tecnologias
 
-- Python com framework Django
+### FrontEnd:
+-   .html
+-   .css
 
-- Oracle
+### BackEnd
+-   .js
+  
+### Biblioteca Java Script
+-   React Native
+
+### Banco de Dados
+-   Oracle
 
 # Ferramentas
 
 - Figma
 
-- Visual Studio
+- Android Studio
+
+- Visual Studio Code
+
+- NodeJs
 
 - Lucidchart
 
 - Github
+
+- Git
 
 # Caso de uso
 
@@ -70,3 +89,7 @@ Acesse a prototipação pelo Figma
 ## Documento de Requisitos
 
 [Link do Documento de Requisitos](https://docs.google.com/document/d/1T-lvUbERKdjSwX2S3uWctfHe6ApS56Axw0T7RWyg97E/edit)
+
+## Relatório de Requisitos
+
+[Link do Relatório de Requisitos](https://fatecspgov-my.sharepoint.com/:w:/g/personal/jaqueline_silva103_fatec_sp_gov_br/EW6agN417r9NtqwSsk-GUdMBHB9-BJFsJlXFnLPRllinMw)
